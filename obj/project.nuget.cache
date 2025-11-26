@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3j3amOpb9Y=",
+  "success": true,
+  "projectFilePath": "/Users/pratikdrives/Downloads/CloudQAProject/CloudQAProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/pratikdrives/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/microsoft.codecoverage/17.9.0/microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/microsoft.net.test.sdk/17.9.0/microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/microsoft.testplatform.objectmodel/17.9.0/microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/microsoft.testplatform.testhost/17.9.0/microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/nunit/3.14.0/nunit.3.14.0.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/selenium.support/4.38.0/selenium.support.4.38.0.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/selenium.webdriver/4.38.0/selenium.webdriver.4.38.0.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/selenium.webdriver.chromedriver/131.0.6778.6900/selenium.webdriver.chromedriver.131.0.6778.6900.nupkg.sha512",
+    "/Users/pratikdrives/.nuget/packages/seleniumextras.waithelpers/1.0.2/seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "CloudQAProject depends on Selenium.WebDriver.ChromeDriver (>= 131.0.6778.204) but Selenium.WebDriver.ChromeDriver 131.0.6778.204 was not found. Selenium.WebDriver.ChromeDriver 131.0.6778.6900 was resolved instead.",
+      "projectPath": "/Users/pratikdrives/Downloads/CloudQAProject/CloudQAProject.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/pratikdrives/Downloads/CloudQAProject/CloudQAProject.csproj",
+      "libraryId": "Selenium.WebDriver.ChromeDriver",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
